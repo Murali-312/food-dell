@@ -1,4 +1,4 @@
-const allowedOrigins = ['https://fooddel-1-l8ja.onrender.com','']
+const allowedOrigins = ['https://food-dell-1-8f6e.onrender.com','https://food-dell-3-n8gk.onrender.com']
 
 const corsOptions ={
     origin: (origin,callback)=>{
